@@ -3,8 +3,8 @@
 
 _gitname=kodi-addon-audioencoder-flac
 pkgname="$_gitname-git"
-_commit=bd1a353
-pkgver=20170522.bd1a353
+_commit=d93774a
+pkgver=20170620.d93774a
 pkgrel=1
 pkgdesc="FLAC Audio Encoder add-on for Kodi"
 arch=('i686' 'x86_64')
